@@ -191,7 +191,7 @@ margin-top:40px;
 <section class="posts" id="posts">
 
 <div class="post">
-<img src="robos-submarinos.jpg" alt="Robôs Submarinos">
+<img src="https://images.unsplash.com/photo-1454789548928-9efd52dc4031?auto=format&fit=crop&w=800&q=80" alt="Robôs Submarinos">
 <div class="post-content">
 <h3>🤖 Robôs Submarinos</h3>
 <p>
@@ -214,7 +214,7 @@ Eles são usados em pesquisas científicas, exploração de recursos e estudos d
 </div>
 
 <div class="post">
-<img src="satelites-oceanicos.jpg" alt="Satélites Oceânicos">
+<img src="https://images.unsplash.com/photo-1614728894747-a83421e2b9c9?auto=format&fit=crop&w=800&q=80" alt="Satélites Oceânicos">
 <div class="post-content">
 <h3>🛰️ Satélites Oceânicos</h3>
 <p>
@@ -237,7 +237,7 @@ Esses dados ajudam na previsão de tempestades e mudanças climáticas.
 </div>
 
 <div class="post">
-<img src="sensores-marinhos.jpg" alt="Sensores Marinhos">
+<img src="https://images.unsplash.com/photo-1518156677180-95a2893f3e9f?auto=format&fit=crop&w=800&q=80" alt="Sensores Marinhos">
 <div class="post-content">
 <h3>🌊 Sensores Marinhos</h3>
 <p>
@@ -260,7 +260,7 @@ Eles ajudam cientistas a entender melhor o ambiente marinho.
 </div>
 
 <div class="post">
-<img src="navios-inteligentes.jpg" alt="Navios Inteligentes">
+<img src="https://images.unsplash.com/photo-1544816155-12df9643f363?auto=format&fit=crop&w=800&q=80" alt="Navios Inteligentes">
 <div class="post-content">
 <h3>🚢 Navios Inteligentes</h3>
 <p>
@@ -283,7 +283,7 @@ Isso reduz custos e melhora a eficiência.
 </div>
 
 <div class="post">
-<img src="energia-das-ondas.jpg" alt="Energia das Ondas">
+<img src="https://images.unsplash.com/photo-1513553404607-988bf2703777?auto=format&fit=crop&w=800&q=80" alt="Energia das Ondas">
 <div class="post-content">
 <h3>🔋 Energia das Ondas</h3>
 <p>
