@@ -165,7 +165,6 @@ background:rgba(0,0,0,0.3);
 margin-top:40px;
 }
 
-/* Estilo para destacar o nome do autor */
 .artigo-autor {
 font-size: 0.9rem;
 opacity: 0.8;
@@ -202,7 +201,7 @@ font-style: italic;
 <img src="imagem-blog.png" alt="Logotipo conceitual de tecnologia e educacao: um livro aberto de onde emerge um cérebro digital brilhante, cercado por ícones de Wi-Fi, circuitos e lâmpada de ideia. Cores em tons de azul e branco.">
 <div class="post-content">
 <h3>Meu primeiro post</h3>
-<p class="artigo-autor">Por: Marcelo Paludetto</p>
+<p class="artigo-autor">Por: Maria Eduarda</p>
 <p>Boas-vindas ao meu novo blog! Aqui vou compartilhar dicas de programação e curiosidades da área de tecnologia aplicada ao mar.</p>
 
 <div class="actions">
@@ -220,8 +219,8 @@ font-style: italic;
 <div class="post">
 <img src="imagem-blog.png" alt="Logotipo conceitual de tecnologia e educacao: um livro aberto de onde emerge um cérebro digital brilhante, cercado por ícones de Wi-Fi, circuitos e lâmpada de ideia. Cores em tons de azul e branco.">
 <div class="post-content">
-<h3>Meu primeiro post</h3>
-<p class="artigo-autor">Por: Marcelo Paludetto</p>
+<h3>Tecnologia Assistiva no Mar</h3>
+<p class="artigo-autor">Por: Maria Eduarda</p>
 <p>Boas-vindas ao meu novo blog! Aqui vou compartilhar dicas de programação e curiosidades da área de tecnologia.</p>
 
 <div class="actions">
